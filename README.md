@@ -19,3 +19,7 @@ The Contains information collected prior to race starts, including average odds 
 ```Bash
 pip install pandas numpy seaborn matplotlib scikit-learn
 ```
+
+After installing these libraries got to [approach](https://github.com/Avijit-Jana/Horse-Race-Prediction/blob/main/Approach.md) section.
+
+<h3 align='right'> Developed By - <i>Avijit Jana</i></h3>
